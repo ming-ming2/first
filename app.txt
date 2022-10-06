@@ -1,7 +1,2 @@
-aaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbccc
-asssssssssasdgit
-쿠폰수정함
-new에서 수정함333
-main수정squash수정22 conflict용
-squash수정111
+aaaaaaa
+squash수정2
