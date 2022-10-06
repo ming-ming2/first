@@ -1,2 +1,1 @@
-aaaaaaa
-squash수정2
+commit1
