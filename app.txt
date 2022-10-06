@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 commit1
 commit2
 commit3
+=======
+aaaaaaa
+squash수정2
+>>>>>>> parent of 1117f0f (commit1)
